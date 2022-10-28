@@ -1,4 +1,6 @@
-# now entering hell
+# Copyright 2022 Google LLC.
+# SPDX-License-Identifier: Apache-2.0
+
 cmake_minimum_required(VERSION 3.0)
 project(monkey_test C)
 set(CMAKE_INCLUDE_DIRECTORIES_BEFORE ON)
